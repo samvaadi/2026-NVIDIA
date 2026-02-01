@@ -10,7 +10,7 @@
 
 | Role | Name | GitHub Handle | Discord Handle
 | :--- | :--- | :--- | :--- |
-| **Project Lead** (Architect) | Samvaadi Dadhi | samvaadi | ._samvaa_. |
+| **Project Lead** (Architect) | Samvaadi Dadhi | samvaadi | .__samvaa__. |
 | **GPU Acceleration PIC** (Builder) | Abhiroop Gohar | stark-069 | stark_03 |
 | **Quality Assurance PIC** (Verifier) | Aarush Bindod | metamyteee | not_aarush |
 | **Technical Marketing PIC** (Storyteller) | Hemal | Hemal2510 | hemal_2510_06608|
